@@ -5,11 +5,18 @@ https://polyhaven.com/a/wood_floor
 https://polyhaven.com/a/thatch_roof_angled
 https://polyhaven.com/a/denmin_fabric_02
 https://polyhaven.com/a/book_pattern
+https://polyhaven.com/a/leather_red_03
+https://polyhaven.com/a/blue_metal_plate
 https://polyhaven.com/a/fabric_pattern_05
-https://polyhaven.com/a/leather_red_02
+https://polyhaven.com/a/grey_cartago_02
+https://polyhaven.com/a/concrete_wall_008
 
 AssetStore Assets:
+
 https://assetstore.unity.com/packages/3d/props/interior/free-wood-door-pack-280509
 https://assetstore.unity.com/packages/3d/environments/fast-food-restaurant-kit-239419
 https://assetstore.unity.com/packages/3d/environments/apartment-kit-124055
 https://assetstore.unity.com/packages/3d/environments/minimalist-archviz-bedroom-131093
+https://assetstore.unity.com/packages/3d/props/interior/low-poly-bathroom-pack-88291
+https://assetstore.unity.com/packages/3d/environments/fast-food-restaurant-kit-239419
+https://assetstore.unity.com/packages/3d/props/furniture/bathroom-set-interior-263462
